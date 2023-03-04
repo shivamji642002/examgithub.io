@@ -10,7 +10,7 @@
 3.Dynamic web page name "Online Examination System"
 -----------------------------------------------------
 
-4. you Download the zip file/ download din ng winrar.
+4. you Download shivamji642002 exam repository the zip file/ download din ng winrar.
 -----------------------------------------------------
 
 5. Extract the file and copy "Online Examination System" folder
